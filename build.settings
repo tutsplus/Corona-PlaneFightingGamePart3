@@ -1,0 +1,10 @@
+{
+    orientation =
+    {
+        default ="portrait",
+        supported =
+        {
+          "portrait"
+        },
+    },
+}
